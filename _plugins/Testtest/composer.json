@@ -1,0 +1,19 @@
+{
+    "name": "test/test",
+    "type": "spress-plugin",
+    "description": "test",
+    "keywords": ["spress", "plugin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "test",
+            "email": "lury@critical.pl"
+        }
+    ],
+    "require": {
+        "yosymfony/spress-installer": "~1.0"
+    },
+    "extra": {
+        "spress_name": "Testtest"
+    }
+}
